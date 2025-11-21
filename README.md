@@ -4,7 +4,7 @@ Overview
 
 This internship project focuses on building a complete stock price forecasting pipeline using real-time financial data. The project forecasts Apple Inc. (AAPL) closing prices using classical statistical models and deep learning architectures. It highlights industry-relevant competencies in financial time-series analysis, feature engineering, forecasting, performance evaluation, and model comparison.
 
-Objectives
+##Objectives
 
 To analyze historical AAPL stock data and forecast future closing prices.
 
@@ -14,10 +14,10 @@ To evaluate the models using standard forecasting metrics (RMSE, MAE, MAPE).
 
 To identify insights from model behavior and visual outputs.
 
-Techniques & Software Used
+##Techniques & Software Used
 Techniques
 
-ARIMA – Trend-based statistical forecasting model
+###ARIMA – Trend-based statistical forecasting model
 
 SARIMA – Seasonality-enhanced extension of ARIMA
 
